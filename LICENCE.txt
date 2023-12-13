@@ -1,0 +1,20 @@
+
+    // -- SCRIPT NAME DOWNP ------------ /|
+    // -- DOWNLOAD PAGE ---------------- /|
+    // -- DESIGN BY NEWMEDIENE --------- /|
+    // -- 12-2023 | ALGERIA SBA -------- /|
+    // -- NEWMEDIENE@GMAIL.COM --------- /|
+    // -- FB.COM/NEWMEDIENE ------------ /|
+    // -- WWW.NEWMEDIENE.COM ----------- /|
+    // -- V1.0 FREE COPY NOT FOR SALE -- /|
+
+- downp script minimum requirements:    
+    PHP 5.6 or higher with a memory limit of at least 100MB.
+    MySQL 5.6 or higher.
+    Being able to create tables in your database.
+
+- You are free to use this script:
+    For personal and commercial projects, in hosting a website or as part of a website, you are not authorized to sublicense,
+    resell or rent it. We do not allow modification of the script or change the name of its designer.
+    The script must belong to its designer in order to use the content or part of it.
+    You should attribute it to AMMANI BOUMEDIENE, please appreciate our trouble in designing it

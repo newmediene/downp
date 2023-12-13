@@ -1,0 +1,45 @@
+RewriteEngine On 
+
+ErrorDocument 403 https://newmediene.com/
+ErrorDocument 404 https://newmediene.com/
+ErrorDocument 408 https://newmediene.com/
+ErrorDocument 500 https://newmediene.com/
+
+Options +MultiViews
+
+<files config.php>
+order allow,deny
+deny from all
+</Files>
+
+<files footer.php>
+order allow,deny
+deny from all
+</Files>
+
+<files function.php>
+order allow,deny
+deny from all
+</Files>
+
+<files header.php>
+order allow,deny
+deny from all
+</Files>
+
+<files home.php>
+order allow,deny
+deny from all
+</Files>
+
+<files navbar.php>
+order allow,deny
+deny from all
+</Files>
+
+<files richeditor.php>
+order allow,deny
+deny from all
+</Files>
+
+
